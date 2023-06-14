@@ -6,7 +6,7 @@
 
 ] */
 const allowedOrigins = [
-    'https://mern-front-end.onrender.com'
+    'https://mern-front-end-1wpx.onrender.com'
 ]
 
 module.exports = allowedOrigins
